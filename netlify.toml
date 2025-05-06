@@ -2,4 +2,4 @@
   from = "/*"
   to = "https://x.yinxing.dynv6.net:8088/:splat"
   status = 200
-  force = tr
+  force = true
